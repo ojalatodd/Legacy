@@ -1,4 +1,4 @@
-/* The purpose of this program is to set the purge date of archives in cold storage to a new date based on
+/* The purpose of this program is to set the purge date of archives in cold storage in Code42 CrashPlan servers to a new date based on
 two parameters: a baseline date and the number of days, N, after the baseline date to set the purge date to.
 
 The program accepts the following command line parameters:
